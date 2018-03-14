@@ -89,7 +89,7 @@
 .icon_yes1 {width: 1rem;height: 1rem;background: url(../images/yes_l.png) no-repeat;background-size: 100%}
 
 /*btn*/
-.btn {line-height: 1.5rem;-webkit-border-radius: 5px;border-radius: 5px;color: #d00c36;text-align: center;font-size: .9rem;margin-top: 2rem; border: 2px solid #000;width: 9rem;margin: 0 auto}
+.btn {line-height: 2.5rem;-webkit-border-radius: 5px;border-radius: 5px;color: #d00c36;text-align: center;font-size: .9rem;margin-top: 2rem; border: 2px solid #000;width: 9rem;margin: 0 auto}
 
 /*******通用结束*******/
 .top {padding: .375rem 0; background: #ebebeb;text-align: center;font-size: .6rem;color: #706f6f}
@@ -99,7 +99,7 @@
 .talklist li img {display: block;position: absolute;top: .5rem;left: 0; width: 1.4rem;height: 1.4rem;-webkit-border-radius: 50%;border-radius: 50%;}
 .loading {line-height: 2rem;color: #999;font-size: .6rem; text-align: center;margin-bottom: 3rem;}
 .talkNow {display: block;position: fixed;left: 50%;bottom: 0;line-height: 2.2rem;background: #f5f5f5;width: 16rem;margin-left: -8rem;z-index: 1; text-align: center;}
-.talkNow input {display: inline-block;height: 1.5rem;line-height: 1.5rem;border: 1px solid #999;-webkit-border-radius: 15px;border-radius: 15px;font-size: .6rem;color: #666;width: 13rem;padding: 0 1rem;background: transparent;}
+.talkNow input {display: inline-block;height: 2.5rem;line-height: 2.5rem;border: 1px solid #999;-webkit-border-radius: 15px;border-radius: 15px;font-size: .6rem;color: #666;width: 13rem;padding: 0 1rem;background: transparent;}
 .tle {height: 2.2rem;}
 .tle img {width: 1.8rem;height: 1.8rem;-webkit-border-radius: 50%;border-radius: 50%;}
 .ico_store {display: inline-block;width: .8rem;height: .7rem;background: url(../images/store.png) no-repeat center center;background-size: 120%;vertical-align: text-bottom;}
@@ -130,13 +130,13 @@
 .bb1 {border-bottom: 1px solid #ddd;}
 
 .popup {
-    border-radius: 85px;
-    height: 85px;
-    width: 85px;
+    border-radius: 2.5rem;
+    height: 2.5rem;
+    width: 2.5rem;
     background: #e71a6e;
-    line-height: 85px;
+    line-height: 2.5rem;
     color: #fff;
-    font-size: 20px;
+    font-size: .7rem;
     text-align: center;
 }
-.buyBtn {line-height: .9rem;padding: 0 .5rem; background: #fff;border: 1px solid #999;font-size: .5rem;color: #666;-webkit-border-radius: 15px;border-radius: 15px}
+.buyBtn {line-height: .9rem;padding: 0.5rem 0.5rem; background: #fff;border: 1px solid #999;font-size: .5rem;color: #666;-webkit-border-radius: 15px;border-radius: 15px}
