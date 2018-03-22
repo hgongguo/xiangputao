@@ -130,13 +130,18 @@
 .bb1 {border-bottom: 1px solid #ddd;}
 
 .popup {
-    border-radius: 2.5rem;
-    height: 2.5rem;
+    height: 1.3rem;
+    line-height: 1.3rem;
     width: 2.5rem;
-    background: #e71a6e;
-    line-height: 2.5rem;
+    background: #cccccc;
+    /*background: #e71a6e;
+    border-radius: 2.5rem;
+    */
     color: #fff;
-    font-size: .7rem;
+    font-size: .5rem;
     text-align: center;
+    filter: alpha(opacity=50);background-color:rgba(255, 255, 255, 0.3);
+    position:absolute;margin-top:0.3rem;margin-left:0.3rem;
+   /* opacity: 0.5;*/
 }
 .buyBtn {line-height: .9rem;padding: 0.5rem 0.5rem; background: #fff;border: 1px solid #999;font-size: .5rem;color: #666;-webkit-border-radius: 15px;border-radius: 15px}
